@@ -29,7 +29,7 @@ values
 'Big Spring cleaning is more like for the previous month, so if you\'ve missed it, it is gone for good.'),
 ('May', 'That might be your last chance to have Greece without the crowd for the year if you\'re not already late', 
 'May is cheerful - a lot of energy for our project', 
-'In May most important is to catch sun rays, so what should we repair - stiff objects it our tender, exhaused skinn? '),
+'In May most important is to catch sun rays, so what should we repair - stiff objects it our tender, exhaused skin? '),
 ('June', 'is time for Spain.', 
 'June is detailed and we scrutinizing thoroughly.', 
 'I am thinking about the next month when I am planning to have more time.'),
