@@ -13,7 +13,7 @@
 <body>
 <h2 style="color:red";> HAPPY NEW 2026!  </h2>
 <div>
-<img src="resources/BubaBanner.gif" alt="BubaBanner" style="width:1100px;height: auto;"">
+<img src="resources/BubaBanner_07.gif" alt="BubaBanner" style="width:1100px;height: auto;"">
 </div>
 
 <div class="greetNY">
@@ -34,3 +34,4 @@
 
 </body>
 </html>
+
