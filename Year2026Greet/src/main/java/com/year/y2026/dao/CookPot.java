@@ -19,7 +19,7 @@ public class CookPot {
 			
 			String url = "jdbc:mysql://localhost:3306/year2026";
 			String username = "root"; // Replace with your MySQL username
-			String password = "10Jaguar"; // Replace with your MySQL password
+			String password = "root"; // Replace with your MySQL password
 			
 			// Load MySQL JDBC Driver - this String is working either
 			Class.forName("com.mysql.cj.jdbc.Driver");
@@ -54,6 +54,7 @@ public class CookPot {
 	} 
 	
 	
+
 
 
 
