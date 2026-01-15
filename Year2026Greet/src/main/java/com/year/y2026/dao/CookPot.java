@@ -22,6 +22,7 @@ public class CookPot {
 			String password = "root"; // Replace with your MySQL password
 			
 			// Load MySQL JDBC Driver - this String is working either
+			// Class.forName("com.mysql.jdbc.Driver");
 			Class.forName("com.mysql.cj.jdbc.Driver");
 						
 
@@ -54,6 +55,7 @@ public class CookPot {
 	} 
 	
 	
+
 
 
 
