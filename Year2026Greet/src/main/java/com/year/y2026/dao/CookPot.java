@@ -9,7 +9,6 @@ import java.sql.Statement;
 public class CookPot {
 	
 	
-	//public YearMonthMode cookDish(String month, String mode) {
 	public YearMonthMode cookDish(String month, String mode) {
 		
 		YearMonthMode yMM = new YearMonthMode(month, mode);
@@ -55,6 +54,7 @@ public class CookPot {
 	} 
 	
 	
+
 
 
 
